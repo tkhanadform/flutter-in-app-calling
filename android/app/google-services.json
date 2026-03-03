@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1008793552963",
+    "project_id": "lk-audio-call",
+    "storage_bucket": "lk-audio-call.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008793552963:android:16dc7a9d91985b99b3ecf6",
+        "android_client_info": {
+          "package_name": "com.example.lk_audio_call"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbN26e-O4mWRZxGghSg5Fnmp9Ywns2scM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
